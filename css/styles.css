@@ -340,7 +340,7 @@ body {
   height: 88px;
   justify-content: center;
   align-items: center;
-  color: var(--);
+  color: var(--subtle-txt-cl);
   border: 1px solid var(--subtle-txt-cl);
   border-radius: 4px;
 }
